@@ -1,0 +1,24 @@
+Heroes:
+RedBeard Courage 2 attack 1 coin 1 action ;
+Duck Honor 2 attack 3 coin 2 action ;
+Zombie Industriousness 2 cards  3 action ;
+Puddles Honor 2 attack 3 coin  1 action ;
+Firework Courage 2 attack 1 action ;
+
+ActionCards:
+Coin1 0 1 coin  ;
+Attack1 0 1 attack ;
+Coin2 2 1 coin 1 coin ;
+Hammer 3 2 attack Courage 1 attack ;
+Drawer 4 3 card ;
+Brower 1 1 card ;
+CoinX 5 3 coin 1 attack ;
+
+Monsters:
+Boat 1 2 ambush 1 flip 2 move conqueror 1 discard ;
+Car 2  2 fight 5 removecoin conqueror 1 discard ;
+Monitor 3 3 ;
+Headphone 4 4 conqueror 1 discard  ;
+Hex 5 4  ;
+Doom 6 5 conqueror 5 removeattack ambush 1 move ;
+Writ 7 5 conqueror 1 discard  ;
